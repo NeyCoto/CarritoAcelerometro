@@ -1,7 +1,7 @@
 # CarritoAcelerometro
 # Esquematico en proteus
 
-![Diagrama Esquematico](imgs/esuemtico_img.PNG)
+![Diagrama Esquematico](imgs/esquematico.PNG)
 
 #Interfaz de la app para el usuario
 
